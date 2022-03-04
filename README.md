@@ -1,1 +1,3 @@
 # Smartie
+
+## The focus
