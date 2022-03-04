@@ -1,0 +1,10 @@
+If you have not already, please ensure that you have python installed on your system.
+I have saved an installer in the file already, but if you for some reason don't trust me, 
+you can just search "python download" and follow the top link to get the latest version
+for your operating system.
+
+PLEASE NOTE:
+This won't work on every operating system yet. 
+
+CURRENT OPERATING SYSTEMS:
+Windows 10 and below.
